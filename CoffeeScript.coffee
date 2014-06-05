@@ -1,0 +1,3 @@
+# CoffeeScript
+log -> 
+    alert 'asda'
